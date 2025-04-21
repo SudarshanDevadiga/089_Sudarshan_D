@@ -1,58 +1,47 @@
-# 🌐 Lab 1 – CSS Basics
+# Lab 1 – CSS Basics
 
-This project demonstrates basic CSS styling concepts including padding, margin, font families, background colors, and background images.
+This project demonstrates basic CSS styling concepts including:
 
-## 📄 Reflection Questions & Answers
+- Padding
+- Margin
+- Font families
+- Background colors
+- Background images
 
-### 1️⃣ What is the difference between **padding** and **margin** in CSS?
+## Reflection Questions & Answers
 
-**Answer:**  
-- **Padding** is the space *inside* an element, between its content and its border.  
-- **Margin** is the space *outside* an element, between the element and surrounding elements.
-
-> 💡 Think of padding as internal spacing, and margin as external spacing.
-
----
-
-### 2️⃣ How does **font-family** influence the look of a webpage?
+### 1. What is the difference between padding and margin in CSS?
 
 **Answer:**  
-The `font-family` determines the **visual style and personality** of your text. It affects readability and overall user experience. For example, using a sans-serif font like Arial gives a modern feel, while a serif font adds a classic touch.
+Padding is the space inside an element, between its content and border.  
+Margin is the space outside an element, between the element and surrounding elements.
 
----
-
-### 3️⃣ Why is it important to specify a **background-color** for elements in web design?
-
-**Answer:**  
-Background color enhances **contrast**, improves **readability**, and supports the visual design of the webpage. It also provides a fallback when background images fail to load and helps group content visually.
-
----
-
-### 4️⃣ How did the **background-image** property change the visual appeal of your webpage?
+### 2. How does font-family influence the look of a webpage?
 
 **Answer:**  
-A background image adds **visual depth** and **engagement**. It makes the page more aesthetically pleasing and can reflect the theme or purpose of the website more effectively than plain colors alone.
+The `font-family` property controls the appearance of the text. It affects readability and the visual feel of the webpage. For example, Arial gives a clean and modern look.
 
----
+### 3. Why is it important to specify a background-color for elements in web design?
 
-## 📁 Files Included
+**Answer:**  
+Background colors improve visual clarity, help highlight sections, and provide a fallback if background images fail to load.
 
-- `index.html` – Main HTML file with basic structure
-- `IMG1.img` – Image
+### 4. How did the background-image property change the visual appeal of your webpage?
+
+**Answer:**  
+It added visual depth and made the page more attractive. It also helps in setting a tone or theme for the website.
+
+## Files Included
+
+- `index.html` – Main HTML file
+- `IMG1.img` – Image used as background
 - `README.md` – This file
 
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
-  
----
 
-## 📚 Author
+## Author
 
-Created as part of a CSS learning module.# 🌐 Lab 1 – CSS Basics
-
-This project demonstrates basic CSS styling concepts including padding, margin, font families, background colors, and background images.
-
+Created as part of a CSS learning module.
