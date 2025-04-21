@@ -47,13 +47,7 @@ A background image adds **visual depth** and **engagement**. It makes the page m
 
 - HTML5
 - CSS3
-
----
-
-## 📸 Screenshot
-
-![Webpage Preview](screenshot.png) <!-- Replace with your own screenshot file if needed -->
-
+  
 ---
 
 ## 📚 Author
